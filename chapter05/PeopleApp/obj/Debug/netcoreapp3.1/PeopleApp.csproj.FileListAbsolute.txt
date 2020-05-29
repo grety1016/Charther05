@@ -26,3 +26,17 @@ D:\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfo
 D:\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CopyComplete
 D:\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.dll
 D:\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.pdb
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.exe
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.deps.json
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.json
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.dev.json
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.dll
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.pdb
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\bin\Debug\netcoreapp3.1\PacktLibrary.dll
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\bin\Debug\netcoreapp3.1\PacktLibrary.pdb
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csprojAssemblyReference.cache
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfoInputs.cache
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfo.cs
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CopyComplete
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.dll
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.pdb

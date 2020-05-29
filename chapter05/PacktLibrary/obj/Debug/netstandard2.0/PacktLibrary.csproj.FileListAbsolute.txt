@@ -14,3 +14,11 @@ D:\Charther05\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.Assem
 D:\Charther05\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
 D:\Charther05\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
 D:\Charther05\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojAssemblyReference.cache
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\Grety\Desktop\Charper05\Charther05\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
