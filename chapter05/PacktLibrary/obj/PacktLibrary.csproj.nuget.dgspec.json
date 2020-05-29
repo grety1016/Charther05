@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\chapter05\\PacktLibrary\\PacktLibrary.csproj": {}
+    "D:\\Charther05\\chapter05\\PacktLibrary\\PacktLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Code\\chapter05\\PacktLibrary\\PacktLibrary.csproj": {
+    "D:\\Charther05\\chapter05\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\chapter05\\PacktLibrary\\PacktLibrary.csproj",
+        "projectUniqueName": "D:\\Charther05\\chapter05\\PacktLibrary\\PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "D:\\Code\\chapter05\\PacktLibrary\\PacktLibrary.csproj",
+        "projectPath": "D:\\Charther05\\chapter05\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\sylar\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\chapter05\\PacktLibrary\\obj\\",
+        "outputPath": "D:\\Charther05\\chapter05\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
