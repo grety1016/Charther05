@@ -8,5 +8,8 @@ namespace Packt.Shared
         public DateTime DateOfBirth;
 
         public WondersOfTheAncientWorld FavoriteAncientWonder;
+
+        public WondersOfTheAncientWorld BucketList; 
+
     }
 }
