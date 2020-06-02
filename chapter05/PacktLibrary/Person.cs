@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using static System.Console;
 
 namespace Packt.Shared
 {
     public class Person:object
     {
+
         public readonly string HomePlanet = "Earth";
         public readonly DateTime Instantiated; 
 
@@ -31,6 +33,16 @@ namespace Packt.Shared
         public WondersOfTheAncientWorld FavoriteAncientWonder;
 
         public WondersOfTheAncientWorld BucketList; 
+
+        public void WriteToConsole()
+        {
+            WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
+        }
+
+        public string GetOrigin()
+        {
+           return   $"{Name} was born on {HomePlanet}.";
+        }
 
 
     }
