@@ -49,5 +49,15 @@ namespace Packt.Shared
             return(Name : "Apple",Number : 5);
         }
 
+        public string SayHello()
+        {
+            return $"{Name} says 'Hello！'";
+        }
+
+        public string SayHello(string name)
+        {
+            return $"{Name} says 'Hello!{name}!'";
+        }
+
     }
 }

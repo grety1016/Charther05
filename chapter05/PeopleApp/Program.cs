@@ -72,7 +72,18 @@ namespace PeopleApp
             WriteLine(bob.GetOrigin());
             
             (string Name,int Number) fruit = bob.GetFruit();
+            (string Name,int Number) = bob.GetFruit();
+            
             WriteLine($"There are {fruit.Number} {fruit.Name}.");
+            WriteLine($"Deconstructed: {Name},{Number}");
+
+            var thing1 = ("Neville", 4) ;
+            WriteLine($"{thing1.Item1} has {thing1.Item2} children. ") ;
+            var thing2 = (bob.Name, bob.Children.Count) ;
+            WriteLine($"{thing2.Name} has {thing2.Count} children. ") ;
+
+            WriteLine(bob.SayHello());
+            WriteLine(bob.SayHello("Emily"));
 
         }
     }
