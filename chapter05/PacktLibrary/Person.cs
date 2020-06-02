@@ -4,7 +4,7 @@ using static System.Console;
 
 namespace Packt.Shared
 {
-    public class Person:object
+    public partial class Person:object
     {
 
         public readonly string HomePlanet = "Earth";
@@ -68,7 +68,6 @@ namespace Packt.Shared
         public void PassingParameters(int x,ref int y,out int z)
         {
             z=99;
-
             x++;
             y++;
             z++;
