@@ -85,6 +85,22 @@ namespace PeopleApp
             WriteLine(bob.SayHello());
             WriteLine(bob.SayHello("Emily"));
 
+            WriteLine(bob.OptionalParameters());
+            WriteLine(bob.OptionalParameters("jump",98.5));
+            WriteLine(bob.OptionalParameters(number:52.9,command:"Hide!"));
+            WriteLine(bob.OptionalParameters("Poke!",active:true));
+
+            int a = 10,b = 20, c = 30;
+            WriteLine("a = {0},b = {1},c = {2},",a,b,c);
+            bob.PassingParameters(a,ref b,out c);            
+            WriteLine("a = {0},b = {1},c = {2},",a,b,c);
+
+            int d = 10,e = 20;            
+            WriteLine($"Before: d = {d}, e = {e}, f doesn' t exist yet! ") ;
+            // simplified C# 7. 0 syntax for the out parameter
+            bob. PassingParameters(d, ref e, out int f) ;
+            WriteLine($"After: d = {d}, e = {e}, f = {f}") ;
+
         }
     }
 }
