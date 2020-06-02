@@ -71,6 +71,7 @@ namespace PeopleApp
             bob.WriteToConsole();
             WriteLine(bob.GetOrigin());
             
+            
 
         }
     }
