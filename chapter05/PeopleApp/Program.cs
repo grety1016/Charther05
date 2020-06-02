@@ -71,7 +71,8 @@ namespace PeopleApp
             bob.WriteToConsole();
             WriteLine(bob.GetOrigin());
             
-            
+            (string Name,int Number) fruit = bob.GetFruit();
+            WriteLine($"There are {fruit.Number} {fruit.Name}.");
 
         }
     }

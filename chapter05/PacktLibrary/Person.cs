@@ -35,7 +35,7 @@ namespace Packt.Shared
         public WondersOfTheAncientWorld BucketList; 
 
         public void WriteToConsole()
-        {
+        {            
             WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
         }
 
@@ -44,6 +44,10 @@ namespace Packt.Shared
            return   $"{Name} was born on {HomePlanet}.";
         }
 
+        public (string Name,int Number) GetFruit()
+        {
+            return(Name : "Apple",Number : 5);
+        }
 
     }
 }
