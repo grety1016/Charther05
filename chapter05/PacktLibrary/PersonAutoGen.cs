@@ -38,7 +38,7 @@ namespace Packt.Shared
                         case "red":
                         case "green":
                         case "blue":
-                            favoritePrimaryColor = value;
+                            this.favoritePrimaryColor = value;
                             break;
                         default:
                             throw new System.ArgumentException(

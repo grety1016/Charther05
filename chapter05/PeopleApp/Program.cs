@@ -115,6 +115,10 @@ namespace PeopleApp
             WriteLine($"Sam's favorite ice-cream flavor is {sam.FavoriteIceCream}. ") ;
             sam. FavoritePrimaryColor = "red";
             WriteLine($"Sam' s favorite primary color is {sam.FavoritePrimaryColor}. ") ;
+
+            test t1 = new test();
+            t1.setProperty("test");
+            WriteLine(t1.getTest());
              
 
         }
