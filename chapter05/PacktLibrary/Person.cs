@@ -6,6 +6,8 @@ namespace Packt.Shared
 {
     public partial class Person:object
     {
+        public string Name;
+        public DateTime DateOfBirth;
 
         public readonly string HomePlanet = "Earth";
         public readonly DateTime Instantiated; 
@@ -25,10 +27,7 @@ namespace Packt.Shared
             Instantiated = DateTime.Now;
         }
         public const string Species = "Homo Sapien";
-        public List<Person> Children = new List<Person>();
-           
-        public string Name;
-        public DateTime DateOfBirth;
+        public List<Person> Children = new List<Person>();      
 
         public WondersOfTheAncientWorld FavoriteAncientWonder;
 

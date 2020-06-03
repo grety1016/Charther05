@@ -119,6 +119,14 @@ namespace PeopleApp
             test t1 = new test();
             t1.setProperty("test");
             WriteLine(t1.getTest());
+            
+            //Indexers
+            sam. Children. Add(new Person { Name = "Charlie" }) ;
+            sam. Children. Add(new Person { Name = "Ella" }) ;
+            WriteLine($"Sam' s first child is {sam.Children[0] . Name}") ;
+            WriteLine($"Sam' s second child is {sam.Children[1] . Name}") ;
+            WriteLine($"Sam' s first child is {sam[0].Name}") ;
+            WriteLine($"Sam' s second child is {sam[1].Name}") ;
              
 
         }
